@@ -41,3 +41,5 @@
 - adding error messages from state to view
 - improve the request status timestamp
 - More saga tests
+- adding delay in the requests so loader would be seem.
+- fixing rendering jumps.
