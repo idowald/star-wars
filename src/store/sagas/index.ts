@@ -44,6 +44,7 @@ function* changePageSaga({
   yield put(
     getResources.started({
       resourceName,
+      pageNumber,
       timestamp: getResources.started.type + new Date().getTime().toString()
     })
   );

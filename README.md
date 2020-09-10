@@ -12,6 +12,7 @@
 3. Go to http://localhost:1234
 
 # What's inside?
+- Material -ui (Single File Components)
 - responsive design- till some point the data disappear.
 - click on icon will open more information regarding the resource in a modal.
 - in the modal clicking on icon will open at the same modal the information regarding the resource
